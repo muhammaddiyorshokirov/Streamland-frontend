@@ -1,5 +1,4 @@
 "use client";
-import React from "react";
 import Script from "next/script";
 
 const Analytics = () => {
@@ -46,7 +45,7 @@ const Analytics = () => {
             y = l.getElementsByTagName(r)[0];
             if (y) y.parentNode.insertBefore(t, y);
             return null;
-          })(window, document, "clarity", "script", "lbvoi2a0xh")}
+          })(window, document, "clarity", "script", "s8oxacqys7")}
       </Script>
     </>
   );
